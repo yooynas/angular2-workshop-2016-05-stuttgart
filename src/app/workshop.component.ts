@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { RouteConfig } from '@angular/router-deprecated';
 
 @Component({
   moduleId: module.id,
