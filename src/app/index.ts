@@ -1,2 +1,2 @@
-export {environment} from './environment';
-export {WorkshopAppComponent} from './workshop.component';
+export * from './environment';
+export * from './workshop-app.component';
